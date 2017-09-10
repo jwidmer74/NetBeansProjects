@@ -15,7 +15,18 @@ public class ErrorHandeling {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       try{
+        int count = 0;
+        int x = 5, y = 6, z = 7;
+        double average = (x + y + z) / count;
+        System.out.println("The average is: " + average);
+       }
+       catch(Exception e)
+       {
+         System.out.println(e.toString());
+       }
     }
+       
+       
     
 }
