@@ -1,0 +1,5 @@
+hamburger
+fries
+"soft drink"
+"apple pie"
+"ice cream"
