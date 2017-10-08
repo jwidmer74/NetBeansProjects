@@ -41,5 +41,9 @@ public class Property {
                 "\nNumber of Bathrooms: " + numBaths +
                 "\nNumber of Bedrooms: " + numBeds;
     }
+    public void setAskingPrice(double newValue)
+    {
+        askingPrice = newValue;
+    }
     
 }

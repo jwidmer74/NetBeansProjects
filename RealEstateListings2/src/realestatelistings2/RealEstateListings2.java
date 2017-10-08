@@ -19,6 +19,8 @@ public class RealEstateListings2 {
         Property estate = new Property (250000, "Estate", 1.5, 3, 5);
         System.out.println(land.toString());
         System.out.println(estate.toString());
+        estate.setAskingPrice(230000);
+        System.out.println(estate.toString());
     }
     
 }
