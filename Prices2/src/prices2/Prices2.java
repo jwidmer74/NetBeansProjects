@@ -22,6 +22,7 @@ public class Prices2 {
             System.out.println("Enter the orginal price: ");
             prices[i][0] = in.nextDouble();
             prices[i][1] = prices[i][0] * .70;
+            
         }
         for (int i = 0; i < 5; i++)
         {

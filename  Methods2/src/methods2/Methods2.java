@@ -17,11 +17,13 @@ public class Methods2 {
     public static void main(String[] args) {
         double x, y, z;
         double avg;
+        String name;
         Scanner in = new Scanner(System.in);
         System.out.println("Enter three numbers: ");
         x = in.nextDouble();
         y = in.nextDouble();
         z = in.nextDouble();
+        
         avg = average(x, y, z);
         System.out.println("The average is "+ avg);
         
