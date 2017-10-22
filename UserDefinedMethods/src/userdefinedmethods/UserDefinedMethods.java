@@ -1,11 +1,13 @@
 /*
- * This program is used as an example of user-defined methods
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
-package basicsreview;
+package userdefinedmethods;
 import java.util.*;
 /**
  *
- * @author Peggy Fisher
+ * @author Mr Porcupine
  */
 public class UserDefinedMethods {
 
